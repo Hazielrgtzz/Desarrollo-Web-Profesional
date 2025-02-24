@@ -17,6 +17,6 @@ class SpringDataApplicationTests {
 
         Student student = new Student("pedro", "picapiedra");
         studentRepository.save(student);
-               }
+                }
 
 }
